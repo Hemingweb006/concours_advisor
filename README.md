@@ -1,6 +1,6 @@
 # Concours Advisor AI Agent
 
-ConcoursPrep is an intelligent AI agent engineered to assist Moroccan students in preparing for post-bac competitive exams, including ENSA, ENSAM, and Medecine. By leveraging historical exam data and advanced large language models, this system provides personalized study paths, targeted practice sessions, and in-depth performance analysis.
+Concours Advisor is an intelligent AI agent engineered to assist Moroccan students in preparing for post-bac competitive exams, including ENSA, ENSAM, and Medecine. By leveraging historical exam data and advanced large language models, this system provides personalized study paths, targeted practice sessions, and in-depth performance analysis.
 
 The system utilizes Groq AI to deliver high-speed inference, allowing for rapid interaction and feedback during your study sessions.
 
@@ -52,6 +52,6 @@ python3 ocr.py
 
 The script will detect the files in your concours folder structure and generate corresponding text files, which the AI agent will then utilize to provide feedback, explanations, and mock exam variants.
 
-## Why ConcoursPrep?
+## Why Concours Advisor?
 
-ConcoursPrep transforms static PDF archives into an active, dynamic learning partner. Instead of simply reading past papers, you engage with an agent that understands the pedagogical nuances of the professors who created them, allowing for a more efficient and targeted revision process.
+Concours Advisor transforms static PDF archives into an active, dynamic learning partner. Instead of simply reading past papers, you engage with an agent that understands the pedagogical nuances of the professors who created them, allowing for a more efficient and targeted revision process.
