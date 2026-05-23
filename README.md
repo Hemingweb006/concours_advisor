@@ -1,4 +1,4 @@
-# ConcoursPrep AI Agent
+# Concours Advisor AI Agent
 
 ConcoursPrep is an intelligent AI agent engineered to assist Moroccan students in preparing for post-bac competitive exams, including ENSA, ENSAM, and Medecine. By leveraging historical exam data and advanced large language models, this system provides personalized study paths, targeted practice sessions, and in-depth performance analysis.
 
